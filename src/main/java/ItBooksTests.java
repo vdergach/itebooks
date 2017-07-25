@@ -87,10 +87,7 @@ public class ItBooksTests {
         webSite.searchResultsPage().allPagesAreAvailable("Test iOS Apps with UI Automation");
         webSite.searchResultsPage().allPagesAreAvailable("Windows Server 2012 Automation with PowerShell Cookbook");
     }
-    @Test
-    public void testForGit(){
 
-    }
 
         @After
     public void tearDown(){
